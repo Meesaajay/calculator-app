@@ -9,10 +9,7 @@ What it can do:
 - Press = to get the result.
 - Press C to clear and start again.
 
-Design:
-- The calculator looks clean and modern.
-- Buttons change when you hover or click them.
-- Works nicely on most screen sizes.
+### 🔗 Live Demo: [Click here](https://calculator-app-blush-pi.vercel.app/)
 
 Tools Used:
 - HTML for the structure.
